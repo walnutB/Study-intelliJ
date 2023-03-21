@@ -1,4 +1,4 @@
-public class base {
+public class base01 {
     public static void main(String[] args) {
         System.out.println("오늘부터 복습");
         int a = 10;
