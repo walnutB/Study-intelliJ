@@ -7,6 +7,5 @@ public class Test11 {
         System.out.println( "정수입력" );
         int n1 = scan.nextInt();
         System.out.println( n1 % 2 == 1?"홀수":"짝수");
-
     }
 }
