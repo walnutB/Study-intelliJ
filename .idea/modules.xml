@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+ JavaDay03
       <module fileurl="file://$PROJECT_DIR$/JavaDay03/JavaDay03.iml" filepath="$PROJECT_DIR$/JavaDay03/JavaDay03.iml" />
+  JavaDay02
+      <module fileurl="file://$PROJECT_DIR$/JavaDay02/JavaDay02.iml" filepath="$PROJECT_DIR$/JavaDay02/JavaDay02.iml" />
+ main
       <module fileurl="file://$PROJECT_DIR$/.idea/Study-intelliJ.iml" filepath="$PROJECT_DIR$/.idea/Study-intelliJ.iml" />
     </modules>
   </component>
