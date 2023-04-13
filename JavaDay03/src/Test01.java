@@ -1,4 +1,4 @@
-public class Test02 {
+public class Test01 {
     public static void main(String[] args) {
 //        다중 for문을 사용해서 아래 산 모양 출력하기
 //        *****
