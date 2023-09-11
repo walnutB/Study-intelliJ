@@ -1,5 +1,7 @@
+package Array;
+
 import java.util.Scanner;
-public class Base06 {
+public class Base01 {
     public static void main(String[] args) {
 //        Scanner scan=new Scanner(System.in);
 //        int tot=0;
