@@ -4,6 +4,9 @@ public class Test13 {
 
     public static void main(String[] args) {
 
+//        학생5명의 이름과 점수를 입력받아 배열에 저장하고 전체총점,전체평균,가장 높은 점수와 학생이름,
+//                가장 낮은 점수와 학생이름을 구해서 출력해 보세요.
+
         Scanner scan = new Scanner( System.in );
         String[] name = new String [ 5 ];
         double[] score = new double [ 5 ];

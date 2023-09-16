@@ -4,6 +4,23 @@ public class Test14 {
 
     public static void main(String[] args) {
 
+//        - 점수를 입력받아 분포도를 구해보세요.
+//                - 10개의 점수를 입력하세요
+//        100
+//        90
+//        99
+//        70
+//        8
+//                ..
+//        - [결과]
+//        1점대:1
+//        10점대:0
+//                ..
+//        70점대:1
+//        80점대:0
+//        90점대:2
+//        100점대:1
+
         Scanner scan = new Scanner( System.in );
         int[] score = new int [ 11 ];
         for ( int i = 0 ; i < score.length ; i++ ){
@@ -11,13 +28,13 @@ public class Test14 {
             System.out.print( "1부터 100까지의 점수를 입력하시오." + ( i + 1 ) );
             int a = scan.nextInt();
             if ( a > 0 && a < 10 ){
-                
+
                 score [ 0 ]++;
-                
+
             } else if ( a > 9 && a < 20 ) {
 
                 score [ 1 ]++;
-                
+
             } else if ( a > 19 && a < 30 ) {
 
                 score [ 2 ]++;
@@ -58,6 +75,6 @@ public class Test14 {
 
         }
         
-        
+
     }
 }
