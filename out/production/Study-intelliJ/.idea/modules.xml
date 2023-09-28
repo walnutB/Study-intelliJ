@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      main
       <module fileurl="file://$PROJECT_DIR$/JavaDay01/JavaDay01.iml" filepath="$PROJECT_DIR$/JavaDay01/JavaDay01.iml" />
-      JavaDay03
-      <module fileurl="file://$PROJECT_DIR$/JavaDay03/JavaDay03.iml" filepath="$PROJECT_DIR$/JavaDay03/JavaDay03.iml" />
-      JavaDay02
       <module fileurl="file://$PROJECT_DIR$/JavaDay02/JavaDay02.iml" filepath="$PROJECT_DIR$/JavaDay02/JavaDay02.iml" />
-
+      <module fileurl="file://$PROJECT_DIR$/JavaDay03/JavaDay03.iml" filepath="$PROJECT_DIR$/JavaDay03/JavaDay03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDay07/JavaDay07.iml" filepath="$PROJECT_DIR$/JavaDay07/JavaDay07.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Study-intelliJ.iml" filepath="$PROJECT_DIR$/.idea/Study-intelliJ.iml" />
     </modules>
   </component>
